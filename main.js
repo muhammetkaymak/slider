@@ -26,7 +26,7 @@ var slaytCount = models.length;
 var interval;
 
 var settings = {
-    duration: '1000',
+    duration: '800',
     random: true
 };
 
